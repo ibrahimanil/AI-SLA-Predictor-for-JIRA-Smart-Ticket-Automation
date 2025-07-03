@@ -1,0 +1,3 @@
+ticket_id,issue_type,resolution_time,sla_status
+101,Login Issue,6,On Time
+102,API Failure,13,Breached

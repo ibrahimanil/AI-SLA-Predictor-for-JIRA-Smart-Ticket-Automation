@@ -68,10 +68,9 @@ Love this project? Support it by giving a ⭐ and submitting your suggestions or
 
 👩‍💻 Author
 
-Arooj Javed
-📌 GitHub
-✍️ Dev.to
-📰 Medium
+**Arooj Javed**  
+Support Engineer | Automation Enthusiast | Workflow Optimizer  
+🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://hashnode.com/@aroojjaved93)
 
 ⸻
 

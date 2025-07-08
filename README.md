@@ -27,7 +27,7 @@ This project was originally developed as part of an internal innovation initiati
 
 - ✅ **Organization:** *Hicom Engineering (Pvt.) Ltd.*
 - 🧠 **Purpose:** Automate SLA report generation for internal support operations
-- 🛠️ **Implementation:** Delivered as part of a freelance development engagement to streamline reporting, reduce human error, and boost SLA visibility
+- 🛠️ **Implementation:** Delivered as part of a development engagement to streamline reporting, reduce human error, and boost SLA visibility
 
 Following internal success, the solution has been open-sourced to benefit the wider tech community and showcase real-world applications of Python-based support automation in enterprise environments.
 

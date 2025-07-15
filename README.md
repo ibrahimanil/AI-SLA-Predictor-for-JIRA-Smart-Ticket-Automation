@@ -45,7 +45,7 @@ Following internal success, the solution has been open-sourced to benefit the wi
 
 ## 📚 Related Publications
 
-### 📄 Research Paper on Zenodo  
+## 📄 Research Paper on Zenodo  
 🔗 [Optimizing Jira-Based Support Operations With AI – Zenodo](https://doi.org/10.5281/zenodo.15832214)
 
 ### ✍️ Dev.to Blog  

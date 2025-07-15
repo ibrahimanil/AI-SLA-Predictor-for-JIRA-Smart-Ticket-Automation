@@ -56,7 +56,7 @@ Following internal success, the solution has been open-sourced to benefit the wi
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 ```bash
 # Clone this repository

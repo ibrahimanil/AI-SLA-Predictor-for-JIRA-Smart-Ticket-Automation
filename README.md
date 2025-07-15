@@ -8,7 +8,7 @@
 
 ---
 
-## 🔍 Project Overview
+# 🔍 Project Overview
 
 Managing customer support in JIRA can be overwhelming when juggling large ticket volumes and tight SLA timelines. This project delivers a **lightweight AI-powered framework** to intelligently automate and optimize support processes:
 

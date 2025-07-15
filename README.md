@@ -16,7 +16,7 @@ Managing customer support in JIRA can be overwhelming when juggling large ticket
 - 🧠 AI-powered prediction of SLA breaches
 - ⏰ Smart ticket escalation based on historical resolution patterns
 
-### ✅ Goal
+## ✅ Goal
 
 Reduce manual overhead, improve SLA adherence, and proactively handle ticket delays using automation and ML models.
 

